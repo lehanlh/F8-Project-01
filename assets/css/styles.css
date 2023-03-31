@@ -635,6 +635,7 @@ a {
     align-items: center;
     width: 28px;
     height: 28px;
+    background: #f9f9f9;
 }
 
 .footer .social .social-link:hover {
