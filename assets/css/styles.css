@@ -105,9 +105,11 @@ a {
 }
 
 /* ========= Hero ========= */
-.hero-wrap {
+.hero {
     position: relative;
-    padding-top: 118px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     height: calc(100vh - 90px);
     background: #e6f0ff;
 }
